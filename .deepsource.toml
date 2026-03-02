@@ -22,7 +22,3 @@ enabled = true
   [analyzers.meta]
   environment = ["browser", "node", "es6"]
   module_system = "es6"
-
-[[analyzers]]
-name = "css"
-enabled = true
